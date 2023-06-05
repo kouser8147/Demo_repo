@@ -5,7 +5,7 @@ public class HmmController {
 	
 	public void getOk()
 	{
-		System.out.println("hmm");
+		
 		System.out.println("Athik loves Heena");
 	}
 }
